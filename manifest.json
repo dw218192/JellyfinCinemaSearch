@@ -1,0 +1,18 @@
+[
+    {
+        "guid": "1324972b-8bec-4b17-af1b-3eb05ace77d2",
+        "name": "CinemaSearch",
+        "overview": "test",
+        "description": "test",
+        "owner": "test",
+        "category": "General",
+        "imageUrl": "",
+        "versions": [
+            {
+                "version": "1.0.0",
+                "targetAbi": "10.8.10.0",
+                "sourceUrl": "https://github.com/dw218192/JellyfinCinemaSearch/releases/download/1.0.0/Jellyfin.CinemaSearch.zip",
+            }
+        ]
+    }
+]
