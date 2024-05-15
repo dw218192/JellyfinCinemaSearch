@@ -1,0 +1,16 @@
+---
+name: "Template"
+guid: "1324972b-8bec-4b17-af1b-3eb05ace77d2"
+version: "1.0.0.0"
+targetAbi: "10.8.0.0"
+framework: "net6.0"
+overview: "Short description about your plugin"
+description: >
+  This is a longer description that can span more than one
+  line and include details about your plugin.
+category: "General"
+owner: "jellyfin"
+artifacts:
+- "Jellyfin.CinemaSearch.dll"
+changelog: >
+  changelog
