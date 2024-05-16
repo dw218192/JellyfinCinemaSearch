@@ -6,7 +6,6 @@
         "description": "test",
         "owner": "test",
         "category": "General",
-        "imageUrl": "",
         "versions": [
             {
                 "version": "1.0.0",
